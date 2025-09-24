@@ -1,0 +1,90 @@
+leftnav:
+- identifier: 021c99d6-d375-0172-6b7a-e12e759eec22
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 7827810c-aef5-34e2-5b7e-0d9ccf132707
+  name: Activities
+  pageRef: /pages/activities/
+  weight: 20
+- identifier: dc528499-f819-6cb3-0139-f81cc95083f0
+  name: Day One
+  pageRef: /pages/activities/day-one
+  parent: 7827810c-aef5-34e2-5b7e-0d9ccf132707
+  weight: 30
+- identifier: 3815601b-3c69-41d7-1345-85f7933c3d3b
+  name: Day Two
+  pageRef: /pages/activities/day-two
+  parent: 7827810c-aef5-34e2-5b7e-0d9ccf132707
+  weight: 40
+- identifier: eabcd69c-07cc-dd4d-6a97-1e6ca07528a8
+  name: Day Three
+  pageRef: /pages/activities/day-three
+  parent: 7827810c-aef5-34e2-5b7e-0d9ccf132707
+  weight: 50
+- identifier: da312d23-f4b4-05db-46b5-2c38fa76dfb5
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 60
+- identifier: 1f2eac9c-947a-a5d6-ab44-14fb3ee9cd3c
+  name: Goals for Student Learning
+  pageRef: /pages/instructor-insights/goals-for-student-learning
+  parent: da312d23-f4b4-05db-46b5-2c38fa76dfb5
+  weight: 70
+- identifier: c87e4d59-ef5e-63b2-60f6-695d695de21b
+  name: Teaching in Real-world Contexts
+  pageRef: /pages/instructor-insights/teaching-in-real-world-contexts
+  parent: da312d23-f4b4-05db-46b5-2c38fa76dfb5
+  weight: 80
+- identifier: a3d82a0d-8945-2696-26a1-9c3772ada357
+  name: Workshop Logistics and Challenges
+  pageRef: /pages/instructor-insights/workshop-logistics-and-challenges
+  parent: da312d23-f4b4-05db-46b5-2c38fa76dfb5
+  weight: 90
+- identifier: 0c865d02-a9e7-6ab1-1c0d-3e03937f3908
+  name: 'Providing Students with Feedback '
+  pageRef: /pages/instructor-insights/providing-students-with-feedback
+  parent: da312d23-f4b4-05db-46b5-2c38fa76dfb5
+  weight: 100
+- identifier: 9e6681ab-0639-aa84-a81b-c17fe94d2205
+  name: Course Iteration
+  pageRef: /pages/instructor-insights/course-iteration
+  parent: da312d23-f4b4-05db-46b5-2c38fa76dfb5
+  weight: 110
+- identifier: 1c929eda-b39b-b1e2-559b-e8a43815e91f
+  name: Readings and Materials
+  pageRef: /pages/readings-and-materials/
+  weight: 120
+- identifier: 3ba9dd86-e458-c2e8-3fad-407e5b33c313
+  name: Materials About Sangath
+  pageRef: /pages/readings-and-materials/materials-about-sangath
+  parent: 1c929eda-b39b-b1e2-559b-e8a43815e91f
+  weight: 130
+- identifier: a325aaf9-d3ab-71c9-529f-0ed4de810668
+  name: Student Materials
+  pageRef: /pages/readings-and-materials/student-materials
+  parent: 1c929eda-b39b-b1e2-559b-e8a43815e91f
+  weight: 140
+- identifier: df7aeb97-76b0-ccd8-146e-3ffe6f70206d
+  name: Materials from Sangath
+  pageRef: /pages/readings-and-materials/materials-from-sangath
+  parent: 1c929eda-b39b-b1e2-559b-e8a43815e91f
+  weight: 150
+- identifier: be45b6c5-4a36-e9d2-5c66-eab6b5145930
+  name: Wide-ranging Extra Resources
+  pageRef: /pages/readings-and-materials/wide-ranging-extra-resources
+  parent: 1c929eda-b39b-b1e2-559b-e8a43815e91f
+  weight: 160
+- identifier: 7abb4806-91cb-89e3-a98e-c3650fc22bb1
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 170
+- identifier: 7c04b3d6-f139-cdca-6699-231a88d68d2d
+  name: Deliverables
+  pageRef: /pages/deliverables/
+  weight: 180
+- identifier: 73d9899a-4d25-0e78-d8b6-d61f04fa3995
+  name: Brief Reviews
+  pageRef: /pages/deliverables/brief-reviews
+  parent: 7c04b3d6-f139-cdca-6699-231a88d68d2d
+  weight: 190
