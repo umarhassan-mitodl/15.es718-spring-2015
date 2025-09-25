@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/cbfa40b05a22f6f9e4367744f3f23080_12-approx.png
 file_size: 2833
 file_type: image/png
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

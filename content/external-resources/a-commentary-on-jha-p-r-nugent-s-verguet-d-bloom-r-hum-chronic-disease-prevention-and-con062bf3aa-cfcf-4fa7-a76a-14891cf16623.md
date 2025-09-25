@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.copenhagenconsensus.com/sites/default/files/chronicdisease.pdf
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: '"A Commentary on Jha P., R. Nugent, S. Verguet, D. Bloom, R. Hum ''Chronic

@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://iom.nationalacademies.org/~/media/Files/Report%20Files/2010/Promoting-Cardiovascular-Health-in-the-Developing-World/Vitality.pdf
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: broken
 title: '*Improving Support for Health Promotion and Chronic Disease Prevention: Summary

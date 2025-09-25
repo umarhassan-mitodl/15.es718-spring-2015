@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://content.healthaffairs.org/content/33/9/1627.abstract
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: check_failed
 title: 'Patient Engagement: Four Case Studies That Highlight The Potential For Improved

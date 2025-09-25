@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://www.technologyreview.com/2014/07/21/171988/a-closer-look-at-data-driven-health-care/
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Data-driven Healthcare

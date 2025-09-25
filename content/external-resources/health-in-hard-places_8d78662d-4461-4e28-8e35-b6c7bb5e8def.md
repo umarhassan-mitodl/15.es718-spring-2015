@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://www.project-syndicate.org/commentary/new-health-care-models-in-developing-countries-by-joseph-jimenez
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Health in Hard Places

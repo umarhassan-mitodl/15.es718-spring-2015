@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://web.archive.org/web/20150309054823/http://www.healthallianceinternational.org/blog/post/mental-health-care-workers-in-mozambique
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Mental Health Care Workers in Mozambique

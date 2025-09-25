@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the plans, activities, and assignments for each
   of the three days of the workshop.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Activities

@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://mhealth.jmir.org/2013/2/e25/
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: 'Bridging the Human Resource Gap in Primary Health Care Delivery Systems of

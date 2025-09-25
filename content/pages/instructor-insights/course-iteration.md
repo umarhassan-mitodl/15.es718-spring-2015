@@ -2,6 +2,8 @@
 content_type: page
 description: The instructor discusses possible improvements for the next version of
   the course.
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-es718-global-health-innovation-delivering-targeted-advice-to-an-organization-in-the-field-spring-2015/ac6a3330808da3b5c2ec3541107f24f3_sangath-sign.jpg
 file_size: 26243
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: 'Courtesy of Frederick Noronha (MacArthur Foundation/Sangath) on Flickr.

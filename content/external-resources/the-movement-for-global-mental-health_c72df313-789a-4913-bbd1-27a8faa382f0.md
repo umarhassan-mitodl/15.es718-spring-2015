@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000159
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: The Movement for Global Mental Health

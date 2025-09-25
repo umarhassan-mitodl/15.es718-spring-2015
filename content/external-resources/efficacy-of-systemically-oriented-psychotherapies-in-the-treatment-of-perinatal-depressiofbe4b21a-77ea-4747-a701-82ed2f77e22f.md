@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: http://link.springer.com/article/10.1007%2Fs00737-013-0391-6
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: 'Efficacy of Systemically Oriented Psychotherapies in the Treatment of Perinatal
