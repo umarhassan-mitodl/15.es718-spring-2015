@@ -5,7 +5,7 @@ has_external_license_warning: true
 hide_download: true
 hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: broken
+status: unchecked
 title: 'Avoiding 40% of the Premature Deaths in Each Country, 2010-30: Review of National
   Mortality Trends to Help Quantify the UN Sustainable Development Goal for Health'
 uid: 67d3cd2c-a2b6-4215-bb94-f25bc986be8b

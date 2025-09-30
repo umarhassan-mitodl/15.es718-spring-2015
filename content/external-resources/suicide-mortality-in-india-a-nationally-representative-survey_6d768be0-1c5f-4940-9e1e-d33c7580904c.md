@@ -5,7 +5,7 @@ has_external_license_warning: true
 hide_download: true
 hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: broken
+status: unchecked
 title: 'Suicide Mortality in India: A Nationally Representative Survey'
 uid: 6d768be0-1c5f-4940-9e1e-d33c7580904c
 url_status_code: 403

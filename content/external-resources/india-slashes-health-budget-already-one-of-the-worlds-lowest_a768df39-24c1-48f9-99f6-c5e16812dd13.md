@@ -5,7 +5,7 @@ has_external_license_warning: true
 hide_download: true
 hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: broken
+status: unchecked
 title: India Slashes Health Budget, Already One of the World's Lowest
 uid: a768df39-24c1-48f9-99f6-c5e16812dd13
 url_status_code: 401

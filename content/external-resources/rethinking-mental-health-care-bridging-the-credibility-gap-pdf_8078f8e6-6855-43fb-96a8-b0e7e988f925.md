@@ -5,9 +5,9 @@ has_external_license_warning: true
 hide_download: true
 hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
-status: broken
+status: valid
 title: '"Rethinking Mental Health Care: Bridging the Credibility Gap." (PDF)'
 uid: 8078f8e6-6855-43fb-96a8-b0e7e988f925
-url_status_code: 403
+url_status_code: 200
 wayback_url: ''
 ---
