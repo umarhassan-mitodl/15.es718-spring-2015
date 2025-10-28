@@ -41,7 +41,7 @@ Prasad, Urvashi. "{{% resource_link "009e97ac-b905-4276-9577-9ada7a2a19d5" "What
 
 Rao, M. Govinda and Mita Choudhury. {{% resource_link "8909cd34-7b07-465f-acee-4a2a31c21297" "\"Health Care Financing Reforms in India.\" (PDF)" %}}. Working Paper No: 2012-100, March- 2012. National Institute of Public Finance and Policy.
 
-Ravi, Shamike and Rahul Ahulwalia. "[Band-aid Solutions for Health Problems](https://www.brookings.edu/articles/band-aid-solutions-for-health-problems/)." February 20, 2015. *Brookings India*.
+Ravi, Shamike and Rahul Ahulwalia. "{{% resource_link "1220f42c-6ee9-41a7-a150-79b1ef308cf7" "Band-aid Solutions for Health Problems" %}}." February 20, 2015. *Brookings India*.
 
 Sachan, Dinsa. "{{% resource_link "21288561-d3ff-405e-85f6-105fc58b7249" "New Government Gears Up for India’s Health Challenges" %}}." *The Lancet* 383, no. 9935 (June 2014): 2112.
 

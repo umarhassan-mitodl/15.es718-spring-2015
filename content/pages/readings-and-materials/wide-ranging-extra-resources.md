@@ -17,7 +17,7 @@ uid: be45b6c5-4a36-e9d2-5c66-eab6b5145930
 
 Bollyky, T.J., et al. "{{% resource_link "af583752-ab6e-4cc9-86d7-a2dca8c18c23" "NCDs and an Outcome-based Approach to Global Health" %}}." *The Lancet* 384 (2014).
 
-Daniels, M.E., et al. "[The Emerging Global Health Crisis: Noncommunicable Diseases in Low- and Middle-Income Countries.](https://www.cfr.org/report/emerging-global-health-crisis)" Council on Foreign Relations, 2014.
+Daniels, M.E., et al. "{{% resource_link "378913a8-81f4-4dc8-a825-3018056554c7" "The Emerging Global Health Crisis: Noncommunicable Diseases in Low- and Middle-Income Countries." %}}" Council on Foreign Relations, 2014.
 
 Dieleman, J.L., et al. "{{% resource_link "319fbd9d-c5ad-4f02-81ea-a1e92e7d3ab7" "Global Health Development Assistance Remained Steady in 2013 but did not Align with Recipients' Disease Burden" %}}." *Health Affairs*, April 2014.
 
@@ -97,7 +97,7 @@ Patel, V. {{% resource_link "8078f8e6-6855-43fb-96a8-b0e7e988f925" "\"Rethinking
 
 Thara, R. "{{% resource_link "41d21f40-cac0-4b03-bacf-a15bed958654" "NGOs and Mental Health: Initiatives and Progress" %}}." In *Mental Health in South Asia: Ethics, Resources, Programs and Legislation*. Thara, R. J. K. Trivedi, A. Tripathi (eds.). Springer, 2015.
 
-[Management of Substance Abuse: Alcohol](https://www.who.int//news-room/fact-sheets/detail/alcohol/). World Health Organization.
+{{% resource_link "1793a5e4-25f8-41c1-982c-fdd542faef82" "Management of Substance Abuse: Alcohol" %}}. World Health Organization.
 
 {{% resource_link "07b80073-ecb0-47a8-a3a4-2b0ee44a8851" "Global Status Report on Alcohol and Health 2014 (PDF - 5.7MB)" %}}. World Health Organization.
 

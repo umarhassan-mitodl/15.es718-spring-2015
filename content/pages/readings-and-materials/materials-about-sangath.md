@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains materials about Sangath.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -27,7 +25,7 @@ Chinai, Rupa. "{{% resource_link "7e4c65a5-f9a3-49c9-8852-63565cb5f76f" "Indian 
 
 Patel, V. {{% resource_link "f14ce22d-51e6-41e2-9c6f-46d3250063dd" "\"Sundar: Mental Health for All.\"" %}} *The British Journal of Psychiatry* 21, no. 1 (2015).
 
-Sangath's [Biennial Report: 2012-2014 (PDF - 11.0MB)](https://www.sangath.in/annualreports).
+Sangath's {{% resource_link "92d61de8-84f9-430e-8ab0-1ba0748917a7" "Biennial Report: 2012-2014 (PDF - 11.0MB)" %}}.
 
 Sangath for MIT intro, biosketches, key concepts
 
